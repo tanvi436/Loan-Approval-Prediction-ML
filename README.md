@@ -230,9 +230,3 @@ The project can be improved further by:
 • Using larger and more complex datasets
 • Performing feature engineering
 
----
-
-## 👩‍💻 Author
-
-Tanvi
-Machine Learning & Data Science Enthusiast
